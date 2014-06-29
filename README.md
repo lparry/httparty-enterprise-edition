@@ -18,7 +18,6 @@ so many of us do) you're free to use this.
 
 * Ruby 1.9.3 or higher
 * multi_xml
-* You like to party!
 
 ## Examples
 
