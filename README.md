@@ -1,14 +1,20 @@
-# httparty
+# httparty-enterprise-edition
 
-Makes http fun again!
+Makes http <strike>fun</strike> enterprisey again!
 
 ## Install
 
 ```
-gem install httparty
+gem install httparty-enterprise-edition
 ```
 
-## Requirements
+## Need to know
+
+This is pretty much a troll on httparty for not getting rid of their stupid post gem 
+install message. I doubt I'll ever update it, but if you really hate that message (like
+so many of us do) you're free to use this.
+
+# Requirements
 
 * Ruby 1.9.3 or higher
 * multi_xml
