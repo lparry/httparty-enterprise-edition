@@ -3,15 +3,15 @@ $:.push File.expand_path("../lib", __FILE__)
 require "httparty/version"
 
 Gem::Specification.new do |s|
-  s.name        = "httparty"
+  s.name        = "httparty-enterprise-edition"
   s.version     = HTTParty::VERSION
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ['MIT']
   s.authors     = ["John Nunemaker", "Sandro Turriate"]
   s.email       = ["nunemaker@gmail.com"]
-  s.homepage    = "http://jnunemaker.github.com/httparty"
-  s.summary     = %q{Makes http fun! Also, makes consuming restful web services dead easy.}
-  s.description = %q{Makes http fun! Also, makes consuming restful web services dead easy.}
+  s.homepage    = "http://lparry.github.com/httparty-enterprise-edition"
+  s.summary     = %q{Makes consuming restful web services dead easy.}
+  s.description = %q{Makes consuming restful web services dead easy.}
 
   s.required_ruby_version     = '>= 1.9.3'
 
